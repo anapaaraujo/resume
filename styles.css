@@ -58,7 +58,7 @@ h2 {
 /* banner */
 #main-banner {
     height: 55vh;
-    background-image: url('../img/flowers.jpg');
+    background-image: url('../flowers.jpg');
     background-size: cover;
     padding-top: 15vh;
 }
@@ -206,39 +206,39 @@ h2 {
 }
 
 .proj1 {
-    background-image: url('../img/proj1.jpg');
+    background-image: url('../proj1.jpg');
 }
 
 .proj2 {
-    background-image: url('../img/proj2.jpg');
+    background-image: url('../proj2.jpg');
 }
 
 .proj3 {
-    background-image: url('../img/proj3.jpg');
+    background-image: url('../proj3.jpg');
 }
 
 .proj4 {
-    background-image: url('../img/proj4.png');
+    background-image: url('../proj4.png');
 }
 
 .proj5 {
-    background-image: url('../img/proj5.png');
+    background-image: url('../proj5.png');
 }
 
 .proj6 {
-    background-image: url('../img/proj6.png');
+    background-image: url('../proj6.png');
 }
 
 .proj7 {
-    background-image: url('../img/proj7.jpg');
+    background-image: url('../proj7.jpg');
 }
 
 .proj8 {
-    background-image: url('../img/proj8.jpg');
+    background-image: url('../proj8.jpg');
 }
 
 .proj9 {
-    background-image: url('../img/proj9.jpg');
+    background-image: url('../proj9.jpg');
 }
 
 /* footer */
